@@ -4,7 +4,7 @@ Using CSS3 transitions created a domain where shaky links exists everywhere you'
 
 # How to use
 1. Clone/download  
-2. Every link you'd like to shake, add a class called "shake"
+2. Every link you'd like to shake, add a class called "shake"  
  E.g.
 ``` HTML
 <a class="shake" href=""></a>
