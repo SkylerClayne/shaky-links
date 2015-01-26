@@ -1,6 +1,6 @@
 # Shaky Links
-Easy way to make your links shake!  
-Using CSS3 transitions created a domain where shaky links exists everywhere you'd like them to!  
+Easy way to make your links shake.   
+Using CSS3 transitions created a word where shaky links exists everywhere you'd like them to.  
 
 # How to use
 1. Clone/download  
