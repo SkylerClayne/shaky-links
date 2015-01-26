@@ -7,8 +7,10 @@ Using CSS3 transitions created a domain where shaky links exists everywhere you'
 2. Every link you'd like to shake, add a class called "shake"  
  E.g.
 ``` HTML
-<a class="shake" href=""></a>
+<a href="" class="shake"></a>
 ```  
+It's as easy as that!  
+  
 
 # Contact
 Please feel free to ask me/notify/request anything!   
