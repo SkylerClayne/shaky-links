@@ -5,5 +5,5 @@ Using CSS3 transitions created a domain where shaky links exists everywhere you'
 A bunch of Croatian words and shaky links!  
 
 # Contact
-Please feel free to ask me/notify/request anything! 
+Please feel free to ask me/notify/request anything!   
 [@Skylerclayne](http://www.twitter.com/skylerclayne)
