@@ -6,4 +6,4 @@ A bunch of Croatian words and shaky links!
 
 # Contact
 Please feel free to ask me/notify/request anything! 
-(@Skylerclayne)[http://www.twiiter.com/skylerclayne]
+(http://www.twitter.com/skylerclayne)[@Skylerclayne]
